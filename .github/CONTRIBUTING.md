@@ -2,7 +2,7 @@
 
 If you've written a new formatter, added a new locale, or fixed a bug, your contribution is welcome!
 
-Before proposing a pull request, please these contribution guidelines.
+Before proposing a pull request, please read these contribution guidelines.
 
 ## Issues & Pull Requests
 
